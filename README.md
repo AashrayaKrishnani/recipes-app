@@ -56,7 +56,7 @@ I also feel **amused** by the fact, that just by **coding and testing** this on 
 ## IOS
 > With **courage** in our **hearts** and **ambition** in our **thought**, we can **do anything**!
 * **Import** the project into **X-code**.
-* **Run** the app on a **VM** if you wish **OR** connect you **IOS** device and run it on it! **:D**
+* **Run** the app on a **VM** if you wish **OR** connect your **IOS** device and run it on it! **:D**
 
 # Ideas that may be implemented for Improvement
 * **Improve the State Management**, and add in a **sqlite database**.
